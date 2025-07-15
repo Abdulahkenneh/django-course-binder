@@ -1,7 +1,9 @@
-
 numpy
-matplotlib
+scipy
+tqdm
 pandas
-ipython
-jupyter
-ipykernel
+matplotlib
+ipywidgets
+ipympl
+ipyleaflet
+jupyterlab
